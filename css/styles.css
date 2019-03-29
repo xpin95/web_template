@@ -6,8 +6,16 @@
 
 }
 
+.footer-links{
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+
 footer {
-    background-color: #BB86FC;
+    background-color: #6BB4FE;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -20,7 +28,6 @@ footer {
     .link-container img{
         width: auto;
         height: auto;
-
     }
 
 }
