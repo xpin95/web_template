@@ -1,3 +1,26 @@
-h1{
-    color:teal;
+.link-container img {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 50px 0;
+
+}
+
+footer {
+    background-color: #BB86FC;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+
+
+@media (min-width: 992px) {
+
+    .link-container img{
+        width: auto;
+        height: auto;
+
+    }
+
 }
